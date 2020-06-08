@@ -483,15 +483,14 @@ footer{
     color:  #9c0b19;
 }
 
-
-
-
-
-
-
-
 @media(max-width: 800px){
     #right_part{
         width: 20%;
+    }
+}
+
+@media(max-width: 600px){
+    #header-menu{
+        display: none;
     }
 }
