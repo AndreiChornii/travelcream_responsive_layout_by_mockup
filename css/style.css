@@ -580,4 +580,13 @@ label{
         max-height: 150px;
         margin-top: 28px;
     }
+    #flights_table table tr th{
+        font-size: 11px;
+    }
+    #flights_table table tr td span:before{
+         content: "";
+   }
+   #flights_table table tr td h5{
+       font-size: 8px;
+   }
 }
