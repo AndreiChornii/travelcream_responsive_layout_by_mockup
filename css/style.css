@@ -589,4 +589,9 @@ label{
    #flights_table table tr td h5{
        font-size: 8px;
    }
+   header{
+       background-size: cover;
+       background-image: url(../img/eifeltower_mob.jpg);
+  }
+       
 }
